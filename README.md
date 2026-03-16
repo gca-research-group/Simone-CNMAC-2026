@@ -122,6 +122,8 @@ CNMAC 2025
 
 Também temos links dos sites contendo os artigos:
 
+Vale ressaltar que no ano de 2020 são publicações do ano de 2019, devido a pandemia do COVID 19;
+
 
 ANO 2020
 https://proceedings.sbmac.org.br/sbmac/issue/view/10
