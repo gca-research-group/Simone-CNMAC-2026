@@ -1,4 +1,4 @@
-# Simone-CNMAC-2026
+
 # Simone-CNMAC-2026
 
 Inteligência Artificial na Matemática Aplicada: Um Mapeamento Sistemático do CNMAC (2020–2025)
